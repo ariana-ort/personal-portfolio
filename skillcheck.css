@@ -1,0 +1,218 @@
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-size: large;
+    font-family: "carlmarx", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.certify {
+    padding-top: 2px;
+    width: 100%;
+    font-size: large;
+    font-family: "carlmarx", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    padding: 0.9rem;
+    background-color: #F28A80;
+}
+
+li {
+    display: inline-block;
+}
+
+li a {
+    text-decoration: none;
+    background-color: #F28A80;
+    color: #012840;
+}
+
+li a:hover {
+    color: #f2efdf;
+}
+
+a:hover {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+body {
+    margin-top: 50px;
+}
+
+.row {
+    background-color: #f25252;
+    padding: 0.8rem;
+    color: #011c40;
+    /*display: flex;*/
+}
+
+.columns {
+    background-color: #f2efdf;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    overflow: hidden;
+}
+
+.mypic{
+    /*flex-direction: row;
+    flex-wrap: wrap;*/
+    font-family: "carlmarx", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    padding: 0.3em;
+    background-color: #f25252;
+}
+#headshotpage {
+    height: 22rem;
+    width: 20rem;
+    border: solid #f2efdf 4px;
+}
+
+.mytitle{
+    padding: 3rem;
+    font-family: "xants", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 3.4rem;
+    color: #011c40;
+}
+
+.abtheader {
+    padding: 2rem;
+    padding-bottom: 1rem;
+    font-family: "xants", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.six {
+    padding: 0.5rem;
+    padding-bottom: 0.25rem;
+    font-family: "xants", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.thepinkone {
+    background-color: #f28a80;
+}
+
+.aboutmetitle {
+    background-color: #f28a80;
+    text-shadow: #f2efdf 1px 1px 1px;
+    padding-top: 1.2rem;
+    padding-bottom: 0rem;
+}
+.aboutmetwotitle {
+    background-color: #f28a80;
+    text-shadow: #f2efdf 1px 1px 1px;
+    padding-top: 1.2rem;
+    padding-bottom: 0rem;
+}
+
+.aboutme {
+    padding: 0.7rem;
+    padding-bottom: 0.46rem;
+    font-family: "carlmarx", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.aboutmetwo {
+    padding: 0.7rem;
+    padding-bottom: 0.46rem;
+    font-family: "carlmarx", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.socials{
+    padding-top:2rem;
+    padding-bottom: 2rem;
+}
+
+.sociallink {
+    padding: 1rem;
+    padding-bottom: 0.46rem;
+    font-family: "carlmarx", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#logoimage {
+    height: 3em;
+}
+
+.socialdesc {
+    font-family: "xants", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    padding-top: 1.2rem;
+    padding-bottom: 0rem;
+}
+
+.projectheader{
+    padding: 2rem;
+    padding-bottom: 1rem;
+    font-family: "xants", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.myprojectdiv{
+    padding-top:2rem;
+}
+.projectpics {
+    padding-top: 0.33rem;
+    padding-bottom: 0.33rem;
+}
+.projectdesc {
+    padding:3rem;
+    font-size: large;
+    font-family: "carlmarx", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+.flank {
+    background-color: #f25252;
+}
+
+.centralflank {
+    background-color: #f2efdf;
+}
+#resumeattribute {
+    height: 70rem;
+    width: 60rem;
+}
+.bottomflank {
+    font-size: large;
+    font-family: "carlmarx", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.footcred {
+    background-color: #f2f2f200;
+}
+.credits {
+    padding-top: 20px;
+    width: 100%;
+    font-size: large;
+    font-family: "carlmarx", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    background-color: #f2f2f200;
+}
